@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>795</width>
+    <height>471</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QTableWidget" name="tableWidget"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>795</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuQuery">
+    <property name="title">
+     <string>Запрос</string>
+    </property>
+    <addaction name="QueryNew"/>
+    <addaction name="QueryOpen"/>
+    <addaction name="separator"/>
+    <addaction name="QuerySave"/>
+    <addaction name="QueryClose"/>
+    <addaction name="separator"/>
+    <addaction name="QueryExport"/>
+    <addaction name="separator"/>
+    <addaction name="QueryExit"/>
+   </widget>
+   <widget class="QMenu" name="menuData">
+    <property name="title">
+     <string>Данные</string>
+    </property>
+    <addaction name="DataReadDevice"/>
+    <addaction name="DataReadArchive"/>
+    <addaction name="separator"/>
+    <addaction name="DataTerminateRead"/>
+   </widget>
+   <widget class="QMenu" name="menuService">
+    <property name="title">
+     <string>Сервис</string>
+    </property>
+    <addaction name="ServiceParameters"/>
+   </widget>
+   <widget class="QMenu" name="menuAbout">
+    <property name="title">
+     <string>Справка</string>
+    </property>
+    <addaction name="AboutApp"/>
+   </widget>
+   <addaction name="menuQuery"/>
+   <addaction name="menuData"/>
+   <addaction name="menuService"/>
+   <addaction name="menuAbout"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="QueryNew"/>
+   <addaction name="QueryOpen"/>
+   <addaction name="QuerySave"/>
+   <addaction name="separator"/>
+   <addaction name="QueryClose"/>
+   <addaction name="QueryExit"/>
+   <addaction name="separator"/>
+   <addaction name="DataReadDevice"/>
+   <addaction name="DataReadArchive"/>
+   <addaction name="QueryExport"/>
+   <addaction name="separator"/>
+   <addaction name="DataTerminateRead"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="QueryNew">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/New document.png</normaloff>:/img/Res/New document.png</iconset>
+   </property>
+   <property name="text">
+    <string>Новый</string>
+   </property>
+  </action>
+  <action name="QueryOpen">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Folder.png</normaloff>:/img/Res/Folder.png</iconset>
+   </property>
+   <property name="text">
+    <string>Открыть</string>
+   </property>
+  </action>
+  <action name="QuerySave">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Save.png</normaloff>:/img/Res/Save.png</iconset>
+   </property>
+   <property name="text">
+    <string>Сохранить</string>
+   </property>
+   <property name="toolTip">
+    <string>Сохранить</string>
+   </property>
+  </action>
+  <action name="QueryClose">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Close.png</normaloff>:/img/Res/Close.png</iconset>
+   </property>
+   <property name="text">
+    <string>Закрыть</string>
+   </property>
+  </action>
+  <action name="QueryExit">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Exit.png</normaloff>:/img/Res/Exit.png</iconset>
+   </property>
+   <property name="text">
+    <string>Выход</string>
+   </property>
+  </action>
+  <action name="QueryExport">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Table.png</normaloff>:/img/Res/Table.png</iconset>
+   </property>
+   <property name="text">
+    <string>Экспорт</string>
+   </property>
+  </action>
+  <action name="DataReadDevice">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Display.png</normaloff>:/img/Res/Display.png</iconset>
+   </property>
+   <property name="text">
+    <string>Чтение данных с прибора</string>
+   </property>
+  </action>
+  <action name="DataReadArchive">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/List.png</normaloff>:/img/Res/List.png</iconset>
+   </property>
+   <property name="text">
+    <string>Чтение архива</string>
+   </property>
+  </action>
+  <action name="DataTerminateRead">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Terminate.png</normaloff>:/img/Res/Terminate.png</iconset>
+   </property>
+   <property name="text">
+    <string>Прервать чтение</string>
+   </property>
+  </action>
+  <action name="ServiceParameters">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/Application.png</normaloff>:/img/Res/Application.png</iconset>
+   </property>
+   <property name="text">
+    <string>Параметры</string>
+   </property>
+  </action>
+  <action name="AboutApp">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/img/Res/About.png</normaloff>:/img/Res/About.png</iconset>
+   </property>
+   <property name="text">
+    <string>О программе</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

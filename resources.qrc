@@ -1,0 +1,228 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Res/3d bar chart.png</file>
+        <file>Res/Abort.png</file>
+        <file>Res/About.png</file>
+        <file>Res/Accounting.png</file>
+        <file>Res/Add.png</file>
+        <file>Res/Address book.png</file>
+        <file>Res/Alarm clock.png</file>
+        <file>Res/Alarm.png</file>
+        <file>Res/Alert.png</file>
+        <file>Res/Alien.png</file>
+        <file>Res/Anchor.png</file>
+        <file>Res/Application.png</file>
+        <file>Res/Apply.png</file>
+        <file>Res/Back.png</file>
+        <file>Res/Bad mark.png</file>
+        <file>Res/Bee.png</file>
+        <file>Res/Black bookmark.png</file>
+        <file>Res/Black pin.png</file>
+        <file>Res/Black tag.png</file>
+        <file>Res/Blog.png</file>
+        <file>Res/Blue bookmark.png</file>
+        <file>Res/Blue key.png</file>
+        <file>Res/Blue pin.png</file>
+        <file>Res/Blue tag.png</file>
+        <file>Res/Bomb.png</file>
+        <file>Res/Bookmark.png</file>
+        <file>Res/Boss.png</file>
+        <file>Res/Bottom.png</file>
+        <file>Res/Briefcase.png</file>
+        <file>Res/Brush.png</file>
+        <file>Res/Bubble.png</file>
+        <file>Res/Buy.png</file>
+        <file>Res/Calculator.png</file>
+        <file>Res/Calendar.png</file>
+        <file>Res/Car key.png</file>
+        <file>Res/CD.png</file>
+        <file>Res/Clipboard.png</file>
+        <file>Res/Clock.png</file>
+        <file>Res/Close.png</file>
+        <file>Res/Coin.png</file>
+        <file>Res/Comment.png</file>
+        <file>Res/Company.png</file>
+        <file>Res/Compass.png</file>
+        <file>Res/Component.png</file>
+        <file>Res/Computer.png</file>
+        <file>Res/Copy.png</file>
+        <file>Res/Create.png</file>
+        <file>Res/Cut.png</file>
+        <file>Res/Danger.png</file>
+        <file>Res/Database.png</file>
+        <file>Res/Delete.png</file>
+        <file>Res/Delivery.png</file>
+        <file>Res/Diagram.png</file>
+        <file>Res/Dial.png</file>
+        <file>Res/Disaster.png</file>
+        <file>Res/Display.png</file>
+        <file>Res/Dollar.png</file>
+        <file>Res/Door.png</file>
+        <file>Res/Down.png</file>
+        <file>Res/Download.png</file>
+        <file>Res/Downloads folder.png</file>
+        <file>Res/Earth.png</file>
+        <file>Res/Eject.png</file>
+        <file>Res/E-mail.png</file>
+        <file>Res/Equipment.png</file>
+        <file>Res/Erase.png</file>
+        <file>Res/Error.png</file>
+        <file>Res/Euro.png</file>
+        <file>Res/Exit.png</file>
+        <file>Res/Expand.png</file>
+        <file>Res/Eye.png</file>
+        <file>Res/Fall.png</file>
+        <file>Res/Fast-forward.png</file>
+        <file>Res/Favourites.png</file>
+        <file>Res/Female symbol.png</file>
+        <file>Res/Female.png</file>
+        <file>Res/Film.png</file>
+        <file>Res/Filter.png</file>
+        <file>Res/Find.png</file>
+        <file>Res/First record.png</file>
+        <file>Res/First.png</file>
+        <file>Res/Flag.png</file>
+        <file>Res/Flash drive.png</file>
+        <file>Res/Folder.png</file>
+        <file>Res/Forbidden.png</file>
+        <file>Res/Forward.png</file>
+        <file>Res/Free bsd.png</file>
+        <file>Res/Gift.png</file>
+        <file>Res/Globe.png</file>
+        <file>Res/Go back.png</file>
+        <file>Res/Go forward.png</file>
+        <file>Res/Go.png</file>
+        <file>Res/Good mark.png</file>
+        <file>Res/Green bookmark.png</file>
+        <file>Res/Green pin.png</file>
+        <file>Res/Green tag.png</file>
+        <file>Res/Hard disk.png</file>
+        <file>Res/Heart.png</file>
+        <file>Res/Help book 3d.png</file>
+        <file>Res/Help book.png</file>
+        <file>Res/Help.png</file>
+        <file>Res/Hint.png</file>
+        <file>Res/History.png</file>
+        <file>Res/Home.png</file>
+        <file>Res/Hourglass.png</file>
+        <file>Res/How-to.png</file>
+        <file>Res/Hungup.png</file>
+        <file>Res/Info.png</file>
+        <file>Res/In-yang.png</file>
+        <file>Res/Iphone.png</file>
+        <file>Res/Key.png</file>
+        <file>Res/Last recor.png</file>
+        <file>Res/Last.png</file>
+        <file>Res/Left-right.png</file>
+        <file>Res/Letter.png</file>
+        <file>Res/Lightning.png</file>
+        <file>Res/Liner.png</file>
+        <file>Res/Linux.png</file>
+        <file>Res/List.png</file>
+        <file>Res/Load.png</file>
+        <file>Res/Lock.png</file>
+        <file>Res/Low rating.png</file>
+        <file>Res/Magic wand.png</file>
+        <file>Res/Mail.png</file>
+        <file>Res/Male symbol.png</file>
+        <file>Res/Male.png</file>
+        <file>Res/Medium rating.png</file>
+        <file>Res/Message.png</file>
+        <file>Res/Mobile-phone.png</file>
+        <file>Res/Modify.png</file>
+        <file>Res/Move.png</file>
+        <file>Res/Movie.png</file>
+        <file>Res/Music.png</file>
+        <file>Res/Mute.png</file>
+        <file>Res/Network connection.png</file>
+        <file>Res/New document.png</file>
+        <file>Res/New.png</file>
+        <file>Res/Next track.png</file>
+        <file>Res/Next.png</file>
+        <file>Res/No.png</file>
+        <file>Res/No-entry.png</file>
+        <file>Res/Notes.png</file>
+        <file>Res/OK.png</file>
+        <file>Res/Paste.png</file>
+        <file>Res/Pause.png</file>
+        <file>Res/People.png</file>
+        <file>Res/Percent.png</file>
+        <file>Res/Person.png</file>
+        <file>Res/Phone number.png</file>
+        <file>Res/Phone.png</file>
+        <file>Res/Picture.png</file>
+        <file>Res/Pie chart.png</file>
+        <file>Res/Pinion.png</file>
+        <file>Res/Play.png</file>
+        <file>Res/Playback.png</file>
+        <file>Res/Play-music.png</file>
+        <file>Res/Previous record.png</file>
+        <file>Res/Previous.png</file>
+        <file>Res/Print.png</file>
+        <file>Res/Problem.png</file>
+        <file>Res/Question.png</file>
+        <file>Res/Radiation.png</file>
+        <file>Res/Raise.png</file>
+        <file>Res/Record.png</file>
+        <file>Res/Red bookmark.png</file>
+        <file>Res/Red mark.png</file>
+        <file>Res/Red pin.png</file>
+        <file>Res/Red star.png</file>
+        <file>Res/Red tag.png</file>
+        <file>Res/Redo.png</file>
+        <file>Res/Refresh.png</file>
+        <file>Res/Remove.png</file>
+        <file>Res/Repair.png</file>
+        <file>Res/Report.png</file>
+        <file>Res/Retort.png</file>
+        <file>Res/Rewind.png</file>
+        <file>Res/Sad.png</file>
+        <file>Res/Save.png</file>
+        <file>Res/Schedule.png</file>
+        <file>Res/Script.png</file>
+        <file>Res/Search.png</file>
+        <file>Res/Shield.png</file>
+        <file>Res/Shopping cart.png</file>
+        <file>Res/Silence.png</file>
+        <file>Res/Smile.png</file>
+        <file>Res/Sound.png</file>
+        <file>Res/Stock graph.png</file>
+        <file>Res/Stop sign.png</file>
+        <file>Res/Stop.png</file>
+        <file>Res/Stopwatch.png</file>
+        <file>Res/Sum.png</file>
+        <file>Res/Sync.png</file>
+        <file>Res/Table.png</file>
+        <file>Res/Target.png</file>
+        <file>Res/Taxi.png</file>
+        <file>Res/Terminate.png</file>
+        <file>Res/Text preview.png</file>
+        <file>Res/Text.png</file>
+        <file>Res/Thumbs down.png</file>
+        <file>Res/Thumbs up.png</file>
+        <file>Res/Toolbox.png</file>
+        <file>Res/Top.png</file>
+        <file>Res/Trackback.png</file>
+        <file>Res/Trash.png</file>
+        <file>Res/Tune.png</file>
+        <file>Res/Turn off.png</file>
+        <file>Res/Twitter.png</file>
+        <file>Res/Undo.png</file>
+        <file>Res/Unlock.png</file>
+        <file>Res/Up.png</file>
+        <file>Res/Update.png</file>
+        <file>Res/Up-down.png</file>
+        <file>Res/Upload.png</file>
+        <file>Res/User group.png</file>
+        <file>Res/View.png</file>
+        <file>Res/Volume.png</file>
+        <file>Res/Wallet.png</file>
+        <file>Res/Warning.png</file>
+        <file>Res/Wrench.png</file>
+        <file>Res/Yellow bookmark.png</file>
+        <file>Res/Yellow pin.png</file>
+        <file>Res/Yellow tag.png</file>
+        <file>Res/Yes.png</file>
+        <file>Res/Zoom.png</file>
+    </qresource>
+</RCC>
